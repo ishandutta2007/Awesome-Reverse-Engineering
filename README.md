@@ -17,7 +17,7 @@
 
 > **Curated, production-grade guide to reverse engineering platforms, interactive disassemblers, multi-architecture decompilers, dynamic instrumentation frameworks, symbolic execution engines, and cloud malware analysis sandboxes.**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Reverse-Engineering)
 [![Security Focus](https://img.shields.io/badge/Domain-Binary%20Security%20%26%20RE-red.svg)](https://github.com/ishandutta2007/Awesome-Reverse-Engineering)
 
@@ -34,6 +34,8 @@ This repository serves as an authoritative directory for security researchers, m
   - [🛠️ Detailed Project Profiles](#️-detailed-project-profiles)
 - [🎯 Tool Selection & Architecture Matrix](#-tool-selection--architecture-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 - [⚖️ Legal & Ethical Disclaimer](#️-legal--ethical-disclaimer)
 
 ---
@@ -272,6 +274,29 @@ Contributions from the cybersecurity community are warmly welcomed! To suggest a
 4. **Submit a Pull Request** with a clear explanation of why the tool is significant for reverse engineering.
 
 ⭐ **Star this repository** if you find it valuable for your reverse engineering and malware analysis workflow!
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and utilizing **Awesome Reverse Engineering**! Curation, testing, and continuous tracking of this dynamic software landscape requires considerable time and effort. If this project helps you in your day-to-day security auditing, malware analysis, or binary research, please consider supporting it:
+
+- ⭐ **Star the Repository**: Give us a star on GitHub—it helps boost discoverability and lets more security researchers benefit from this resource!
+- 🍴 **Fork & Contribute**: Have a tool, framework, or pricing update? Fork the repository and open a PR.
+- 📢 **Share with the Community**: Share the repository with fellow CTF teammates, Infosec colleagues, and security practitioners on Twitter/X, LinkedIn, Discord, and Reddit.
+- ☕ **Buy Me a Coffee / Sponsor**: Consider buying a coffee or sponsoring continued maintenance and research via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Reverse-Engineering&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Reverse-Engineering&type=date&legend=top-left)
 
 ---
 
