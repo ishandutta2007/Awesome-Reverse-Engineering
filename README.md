@@ -73,9 +73,9 @@ The open-source reverse engineering ecosystem is expansive, covering disassemble
 
 ### ⭐ Open-Source Quick Comparison
 
-Repos are **sorted descending by GitHub star counts**. Each social star badge links directly to that repository's stargazers page.
+Repos are **sorted descending by GitHub Stars_Counts**. Each social Stars_Badge links directly to that repository's stargazers page.
 
-| # | Project | GitHub Stars | Category | Core Architecture Support | License |
+| # | Project | GitHub_Stars | Category | Core Architecture Support | License |
 | :---: | :--- | :---: | :--- | :--- | :---: |
 | 1 | **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** | <a href="https://github.com/NationalSecurityAgency/ghidra/stargazers"><img src="https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=social&color=white" alt="Ghidra Stars" /></a> | Complete RE Suite & Decompiler | x86, ARM, MIPS, PowerPC, RISC-V, 68HC, + | Apache-2.0 |
 | 2 | **[JADX](https://github.com/skylot/jadx)** | <a href="https://github.com/skylot/jadx/stargazers"><img src="https://img.shields.io/github/stars/skylot/jadx?style=social&color=white" alt="JADX Stars" /></a> | Dex to Java Decompiler | Android DEX, APK, AAB, JAR, CLASS | Apache-2.0 |
@@ -270,7 +270,7 @@ Contributions from the cybersecurity community are warmly welcomed! To suggest a
 2. **Create a descriptive feature branch**: `git checkout -b feature/add-new-tool`.
 3. **Edit `README.md`**: Follow the established tabular structure and profile format.
    - Include: Tool name, official URL, exact starting pricing, precise free tier limits, verified company scale, and supported architectures.
-   - For open-source entries: Include the social star badge linking to the repo's stargazers page.
+   - For open-source entries: Include the social Stars_Badge linking to the repo's stargazers page.
 4. **Submit a Pull Request** with a clear explanation of why the tool is significant for reverse engineering.
 
 ⭐ **Star this repository** if you find it valuable for your reverse engineering and malware analysis workflow!
@@ -312,3 +312,12 @@ Thank you for exploring and utilizing **Awesome Reverse Engineering**! Curation,
   <b>Built with ⚡ for malware analysts, security researchers, vulnerability hunters, and CTF competitors.</b><br>
   <sub>Maintained by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and the global open-source community.</sub>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Reverse-Engineering&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Reverse-Engineering_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Reverse-Engineering_growth.svg">
+  </picture>
+</a>
